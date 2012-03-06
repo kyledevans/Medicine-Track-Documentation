@@ -24,4 +24,5 @@ OTHER_FILES += \
 	doc/search_pharmacists.html \
 	doc/search_inventory.html \
 	doc/toggle_active.html \
-	doc/write_off_inventory.html
+	doc/write_off_inventory.html \
+	CMakeLists.txt
