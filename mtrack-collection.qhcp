@@ -6,6 +6,8 @@
 		<enableDocumentationManager>false</enableDocumentationManager>
 		<enableAddressBar>false</enableAddressBar>
 		<enableFilterFunctionality>false</enableFilterFunctionality>
+		<aboutMenuText><text>About Medicine Track</text></aboutMenuText>
+		<aboutDialog><file>about.html</file></aboutDialog>
 	</assistant>
 	<docFiles>
 		<generate>

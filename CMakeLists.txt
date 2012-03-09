@@ -20,6 +20,7 @@ SET(HTML_FILES "index.html"
 	"search_prescriptions.html"
 	"toggle_active.html"
 	"write_off_inventory.html"
+	"about.html"
 )
 
 ADD_CUSTOM_TARGET(documentation ALL
