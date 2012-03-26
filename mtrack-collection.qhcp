@@ -8,6 +8,7 @@
 		<enableFilterFunctionality>false</enableFilterFunctionality>
 		<aboutMenuText><text>About Medicine Track</text></aboutMenuText>
 		<aboutDialog><file>about.html</file></aboutDialog>
+		<applicationIcon>..\src\rx_border.ico</applicationIcon>
 	</assistant>
 	<docFiles>
 		<generate>
