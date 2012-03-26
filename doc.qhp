@@ -11,6 +11,7 @@
 		<filterAttribute>1.0</filterAttribute>
 		<toc>
 			<section title="Medicine Track Manual" ref="index.html" />
+			<section title="Getting Started" ref="getting_started.html" />
 			<section title="New Patient" ref="new_patient.html" />
 			<section title="New Prescription" ref="new_prescription.html" />
 			<section title="New Medication" ref="new_medication.html" />
@@ -27,11 +28,6 @@
 			<section title="Search Inventory" ref="search_inventory.html" />
 			<section title="Active / Inactive" ref="toggle_active.html" />
 		</toc>
-		<keywords>
-			<keyword name="patient" id="MyApplication::foo" ref="new_patient.html"/>
-			<keyword name="formulary" ref="new_medication.html"/>
-			<keyword name="medication" ref="new_medication.html"/>
-		</keywords>
 		<files>
 			<file>*.html</file>
 			<file>images\*.png</file>

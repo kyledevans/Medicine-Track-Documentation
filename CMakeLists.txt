@@ -21,6 +21,7 @@ SET(HTML_FILES "index.html"
 	"toggle_active.html"
 	"write_off_inventory.html"
 	"about.html"
+	"getting_started.html"
 )
 
 ADD_CUSTOM_TARGET(documentation ALL
