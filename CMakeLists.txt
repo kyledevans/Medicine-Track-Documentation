@@ -25,7 +25,7 @@ SET(HTML_FILES "index.html"
 )
 
 ADD_CUSTOM_TARGET(documentation ALL
-	COMMAND qcollectiongenerator ${PROJECT_SOURCE_DIR}/doc/${QHCP_FILE} -o ${CMAKE_BINARY_DIR}/${EXE_DIR}/${QHC_FILE}
+	COMMAND qcollectiongenerator ${PROJECT_SOURCE_DIR}/doc/${QHCP_FILE}
 )
 
 ADD_CUSTOM_TARGET(doc_files true SOURCES ${HTML_FILES} ${QHP_FILE} ${QHCP_FILE})
